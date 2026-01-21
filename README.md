@@ -1,4 +1,4 @@
-# 🎬📚 Recommendation System (Movies & Books)
+#  Recommendation System (Movies & Books)
 
 A simple **Python-based Recommendation System** that suggests **movies or books** based on the user’s selected **category**.  
 This project uses **Pandas** and a CSV dataset to generate recommendations through the terminal.
